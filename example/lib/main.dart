@@ -10,7 +10,7 @@ import 'package:provider/provider.dart';
 
 import 'src/ble/ble_logger.dart';
 
-const _themeColor = Colors.lightGreen;
+const _themeColor = Colors.blue;
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
